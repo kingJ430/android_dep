@@ -42,7 +42,8 @@ ext {
     ]
 
 
-    owner_dependencies = [
+    android_dependencies = [
+            push               : 'com.android.common:push:1.0.0'
 
     ]
 
